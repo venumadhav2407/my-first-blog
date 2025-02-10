@@ -8,7 +8,10 @@ __pycache__
 myvenv/
 venv/
 
-# database
+# Database
+db.sqlite3
+
+# Static folder at project root
 /static/
 
 # vscode
